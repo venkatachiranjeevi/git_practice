@@ -1,0 +1,3 @@
+this is file2 in another branch to create a conflit
+gits get conflit in some cases
+is it easily avoidable or not
